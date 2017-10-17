@@ -1,0 +1,5 @@
+# System Files
+*.DS_STORE
+
+# Xcode User Data
+SleepPulse.xcodeproj/xcuserdata
