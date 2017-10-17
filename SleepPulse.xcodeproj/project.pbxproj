@@ -16,7 +16,6 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		AA2824471F95C9B80029B748 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AA28244D1F95CE3B0029B748 /* kbrightness */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.executable"; path = kbrightness; sourceTree = "<group>"; };
 		AA28244F1F95D8EC0029B748 /* KeyboardUtilFunctions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardUtilFunctions.swift; sourceTree = "<group>"; };
 		AA2824511F95D9570029B748 /* KeyboardBrightnessManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = KeyboardBrightnessManager.swift; sourceTree = "<group>"; };
@@ -63,7 +62,6 @@
 				AA48B2911F95B7EE0094153B /* Observer.swift */,
 				AA99EF7F1F95B9D700CF3C04 /* Main.storyboard */,
 				AA48B2771F95AFD00094153B /* Info.plist */,
-				AA2824471F95C9B80029B748 /* Assets.xcassets */,
 				AA28244D1F95CE3B0029B748 /* kbrightness */,
 			);
 			path = SleepPulse;
