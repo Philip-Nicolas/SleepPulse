@@ -17,10 +17,4 @@ class AppDelegate: NSObject, NSApplicationDelegate {
         kbm = KeyboardBrightnessManager ()
         sleepStatusObserver = SleepStatusObserver (kbm: kbm)
     }
-
-    func applicationDidFinishLaunching (_ aNotification: Notification) {
-    }
-
-    func applicationWillTerminate (_ aNotification: Notification) {
-    }
 }
