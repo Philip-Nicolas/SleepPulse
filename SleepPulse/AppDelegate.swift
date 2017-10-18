@@ -3,7 +3,6 @@
 //  SleepTest
 //
 //  Created by Philip-Nicolas on 2017-10-16.
-//  Copyright © 2017 Philip-Nicolas. All rights reserved.
 //
 
 import Cocoa
