@@ -27,6 +27,7 @@ class KeyboardBrightnessManager {
     
     func gotWakeNotif () {
         asleep = false
+        setKeyboardBrightness(brightness: userBrightness)
     }
     
     func recursiveFade (i: Float) {
